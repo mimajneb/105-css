@@ -1,0 +1,30 @@
+body{
+    background-color: lime;
+    background-image: url(gengibre-4.jpg);
+    background-size: cover;
+}
+
+button{
+    margin-right: 27px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    padding: 8px;
+}
+
+
+h1{
+    color: red;
+    font-size: 500%;
+}
+
+
+p{
+color: white;
+font-size: 200%;
+}
+
+h2{
+    color: red;
+    font-size: 300%;
+}
